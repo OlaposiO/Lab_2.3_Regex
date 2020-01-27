@@ -56,7 +56,7 @@ namespace Lab_2._3_Regex
             Console.WriteLine("Please enter your Birthday in the format ##/##/####");
             string userDateInput = Console.ReadLine();
 
-            bool validDate = ValidPhoneNumber(userPhoneInput);
+            bool validDate = ValidDate(userPhoneInput);
 
             if (validDate == true)
             {
