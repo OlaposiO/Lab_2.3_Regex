@@ -1,0 +1,11 @@
+C:\Users\oomishope\source\repos\Lab_2.3_Regex\Lab_2.3_Regex\bin\Debug\netcoreapp3.1\Lab_2.3_Regex.exe
+C:\Users\oomishope\source\repos\Lab_2.3_Regex\Lab_2.3_Regex\bin\Debug\netcoreapp3.1\Lab_2.3_Regex.deps.json
+C:\Users\oomishope\source\repos\Lab_2.3_Regex\Lab_2.3_Regex\bin\Debug\netcoreapp3.1\Lab_2.3_Regex.runtimeconfig.json
+C:\Users\oomishope\source\repos\Lab_2.3_Regex\Lab_2.3_Regex\bin\Debug\netcoreapp3.1\Lab_2.3_Regex.runtimeconfig.dev.json
+C:\Users\oomishope\source\repos\Lab_2.3_Regex\Lab_2.3_Regex\bin\Debug\netcoreapp3.1\Lab_2.3_Regex.dll
+C:\Users\oomishope\source\repos\Lab_2.3_Regex\Lab_2.3_Regex\bin\Debug\netcoreapp3.1\Lab_2.3_Regex.pdb
+C:\Users\oomishope\source\repos\Lab_2.3_Regex\Lab_2.3_Regex\obj\Debug\netcoreapp3.1\Lab_2.3_Regex.csprojAssemblyReference.cache
+C:\Users\oomishope\source\repos\Lab_2.3_Regex\Lab_2.3_Regex\obj\Debug\netcoreapp3.1\Lab_2.3_Regex.AssemblyInfoInputs.cache
+C:\Users\oomishope\source\repos\Lab_2.3_Regex\Lab_2.3_Regex\obj\Debug\netcoreapp3.1\Lab_2.3_Regex.AssemblyInfo.cs
+C:\Users\oomishope\source\repos\Lab_2.3_Regex\Lab_2.3_Regex\obj\Debug\netcoreapp3.1\Lab_2.3_Regex.dll
+C:\Users\oomishope\source\repos\Lab_2.3_Regex\Lab_2.3_Regex\obj\Debug\netcoreapp3.1\Lab_2.3_Regex.pdb
